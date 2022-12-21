@@ -1,4 +1,4 @@
-# phone-book
+# React Phone Book
 
 This React app was developed to past the test in Coderbyte.
 
